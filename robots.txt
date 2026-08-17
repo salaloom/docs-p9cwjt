@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ob16aj.salamduit.cfd/sitemap.xml
